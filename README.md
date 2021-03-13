@@ -3,7 +3,7 @@
 ## What is this repository for?
 Automation UI tests for Mobile Contract Order
 
-###Download
+### Download
 
  ``git clone https://github.com/4ch1/aurora.git``
 ### how to run tests
