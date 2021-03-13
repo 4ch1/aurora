@@ -1,0 +1,15 @@
+Requirement 1: 
+
+
+1) input 100 and more, then check if returns true 
+2) input less then 99, for example 99 , then check if returns false
+
+
+Requirement 2:
+test-cases: 
+
+1) input all required fields( firstname , lastname , date of birth, address,
+postcode, contract ,    price)  and submit, check if we are in confirm page
+2) input all required fields except one( for example don't input last name) and check if  it shows error message we are not redirected into  confirm page
+3)  input all required fields and also set up  age under 18 and check if it shows error message and we are not redirected into
+confirm page 
